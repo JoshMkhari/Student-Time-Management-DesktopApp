@@ -1,0 +1,376 @@
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\timeManagement.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 3\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\timeManagement.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 4\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\timeManagement.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 5 Calendar stuff\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\timeManagement.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 6 NoBugs\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\timeManagement.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 7 Validated\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\timeManagement.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\AddModule.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 8 Good UI\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.dll
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Josh\Desktop\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\timeManagement.dll
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 1\Draft\Interface\Ver 9 testingRelease\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.dll
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.pdb
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Draft\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.dll
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.dll
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.pdb
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.pdb
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.xml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\LoginPage.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\LoginPage.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+H:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.dll
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.pdb
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\LoginPage.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\LoginPage.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 2\20104681JoshMkhariPROG6212\Complete\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe.config
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\20104681PROG6212JoshMkhari.pdb
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.dll
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignColors.pdb
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.AssemblyReference.cache
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\Theme\MenuButtonTheme.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\LoginPage.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.cache
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari_MarkupCompile.lref
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\App.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MainWindow.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\Calendar.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\LoginPage.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ModuleAdder.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\StartView.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\MVVM\View\ViewModules.baml
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.g.resources
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\_20104681PROG6212JoshMkhari.Properties.Resources.resources
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.GenerateResource.cache
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CoreCompileInputs.cache
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.csproj.CopyComplete
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.exe
+G:\My Drive\University\PROG\POE\Task 2\To hand in\20104681PROG6212JoshMkhari\20104681PROG6212JoshMkhari\obj\Debug\20104681PROG6212JoshMkhari.pdb
