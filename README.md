@@ -1,4 +1,4 @@
-# CalendarProgram
+# Student time manager
 
 20104681TaskOne Version 1.0 18/09/2021
 
